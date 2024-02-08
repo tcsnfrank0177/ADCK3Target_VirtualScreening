@@ -1,5 +1,5 @@
 All the computational files and technique details can be found in the uploaded files. The initial molecular docking calculations based on 5I35 protein (Pharmacophore was defined by MOE; and docking calcualtions were conducted via AutoDock Vina), were conducted upon in-house libraries (the SMILES are uploaded). The experimental details and collected active compounds are confidential; permission is upon request. IC50 values and efficacy are the main metrics for candidate compounds selection. The top ranking compounds were further analyzed by MOE package with respect to the defined pharmacophore. MD simulations were conducted with Gromacs2019. 
-
+Considering the computational cost, we recommend to use AutoDock for large-scale docking calculations, and MOE for top compounds re-analysis.
 
 Reference:
 
